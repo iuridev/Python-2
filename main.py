@@ -16,3 +16,4 @@ media = float(soma / quantidadeNotas)
 print("A média é: ", media)
 
 print("A média é: {}".format(media))
+print("now, this code is running in gitHub")
