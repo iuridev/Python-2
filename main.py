@@ -2,6 +2,12 @@ print("Hello word! My name is Iuri Barreto")
 
 print("Estudando Python")
 print("Média de notas de alunos")
+print("Pensamento Computacional com Python")
+print("pilares:")
+print("1. Abstração")
+print("2. Pensamento Algoritmo")
+print("3. Decomposição")
+print("4. Reconhecimento de padrões")
 
 quantidadeNotas = int(input("Quantas notas deseja calcular? "))
 soma = 0
